@@ -2,7 +2,8 @@
 
 A dark, no-nonsense gym companion: browse lifts, lock them into today's plan, save others for later, and track the day's totals.
 
-**Live:** https://fitlog-opal-seven.vercel.app/ · **Repo:** _add link_
+**Live:** https://fitlog-opal-seven.vercel.app/ ·
+**Repo:** https://github.com/AtefEzaz/fitlog
 
 ## Technologies
 
