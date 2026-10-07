@@ -6,6 +6,7 @@ import { Bookmark, ChevronLeft, Plus } from "lucide-react";
 import { fetchWorkout } from "@/lib/api";
 import { Workout } from "@/lib/types";
 import { usePlan, PLAN_LIMIT } from "@/context/PlanContext";
+import { Tags } from "@/components/WorkoutCard";
 
 export default function Detail() {
   const { id } = useParams<{ id: string }>();
